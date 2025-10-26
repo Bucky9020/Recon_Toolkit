@@ -12,5 +12,6 @@ A compact, robust Bash-based reconnaissance pipeline that automates:
 2. Make executable:
    ```bash
    chmod +x recon_pipeline.sh
+   ./recon_pipeline.sh
    
 Copyright (c) 2025 Your AM/Bucky
